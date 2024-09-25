@@ -83,7 +83,7 @@ let baseDePreguntas = [
     ayuda: "La  mide el potencial de calentamiento global en toneladas de CO2 equivalentes asociadas a un producto, una corporación o empresa, etc.",
     imagen: "https://www.shutterstock.com/shutterstock/photos/2393389339/display_1500/stock-photo-carbon-footprint-a-human-footprint-in-the-middle-of-a-lush-crystal-globe-concepts-of-sustainable-2393389339.jpg",
     respuesta: "La personal se base en hábitos de consumo personal y la corporatuva mide el desempeño de la empresa frente a los compromisos",
-    distractores: ["No hay diferencias porque son el mismo compromiso", "la huella personal no es útil para reducír la contaminación", "en la huella personal no se mide impacto ambental y en la corporatva si"],
+    distractores: ["No hay diferencias porque ayudan a cumplir con el mismo compromiso", "la huella personal no es útil para reducír la contaminación", "en la huella personal no se mide impacto ambiental y en la corporatva si"],
   },
   {
     pregunta: "¿Como aecta el óxido nitroso (N₂O) al medio ambiente?",
