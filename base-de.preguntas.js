@@ -26,7 +26,7 @@ let baseDePreguntas = [
     ayuda: "Los combustibles fósiles (carbón, petróleo y gas) son los que más contribuyen al cambio climático mundial",
     imagen: "https://www.shutterstock.com/shutterstock/photos/2329381811/display_1500/stock-photo-green-industry-eco-power-plant-petrochemical-industrial-factory-saving-environment-ozone-low-2329381811.jpg",
     respuesta: "En el aire hay aumento de gases que atrapan el calor",
-    distractores: ["No se está produciendo CO₂ suficiente", "Disminición de la temperatura global", "Aumento de la actividad nuclear"],
+    distractores: ["No se está produciendo suficiente CO₂", "Disminición de la temperatura global", "Aumento de la actividad nuclear"],
   },
   {
     pregunta: "¿Algunos gases de efecto invernadero?",
