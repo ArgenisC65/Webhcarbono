@@ -30,7 +30,7 @@ let baseDePreguntas = [
   },
   {
     pregunta: "¿Algunos gases de efecto invernadero?",
-    ayuda: "Los combustibles fósiles (carbón, petróleo y gas) son los que más contribuyen al cambio climático mundial",
+    ayuda: "En la atmósfera de la Tierra, los principales gases de efecto invernadero (GEI) son el vapor de agua (H2O), el dióxido de carbono (CO2), el óxido nitroso (N2O), el metano (CH4) y el ozono (O3).",
     imagen: "https://www.shutterstock.com/shutterstock/photos/2489272589/display_1500/stock-photo-co-or-carbon-concept-with-icons-on-green-background-co-emission-using-clean-energy-and-limit-2489272589.jpg",
     respuesta: "Dióxido de carbono (CO₂), Metano (CH₄), Oxido nitroso (N₂O)",
     distractores: ["Nitrógeno (N₂) y Oxigeno (O₂)", "Dióxido de carbono (CO₂), Metano (CH₄), Oxigeno (O₂)", "Metano (CH₄), Oxido nitroso (N₂O), Nitrógeno (N₂)"],
@@ -44,7 +44,7 @@ let baseDePreguntas = [
   },
   {
     pregunta: "¿Como se produce el exceso de metano(CH₄)?",
-    ayuda: "Las actividades humanas han elevado el contenido de dióxido de carbono de la atmósfera en un 50 % en menos de 200 años.",
+    ayuda: "Las fuentes más grandes de metano son la agricultura, los combustibles fósiles y la descomposición de residuos en vertederos. ",
     imagen: "https://content.nationalgeographic.com.es/medio/2021/11/12/la-actividad-ganadera-puede-suponer-hasta-un-145de-las-emisiones-globales-de-gases-de-efecto-invernadero_d50c711d_1226x856.jpg",
     respuesta: "Cultivos de arroz, sobrepastoreo, disposicion inadecuada de residuos sólidos",
     distractores: ["Quema de combustibles fósiles en autos e industria", "Sobreproducción de ganado en nuestros llanos", "Tala y quema de árboles"],
