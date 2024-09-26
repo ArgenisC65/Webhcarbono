@@ -50,7 +50,7 @@ let baseDePreguntas = [
     distractores: ["Quema de combustibles fósiles en autos e industria", "Sobreproducción de ganado en nuestros llanos", "Tala y quema de árboles"],
   },
   {
-    pregunta: "¿Cual es la acción princpal para reducir los gases de efecto invernadero?",
+    pregunta: "¿Cual es la acción principal para reducir los gases de efecto invernadero?",
     ayuda: "Las actividades humanas han elevado el contenido de dióxido de carbono de la atmósfera en un 50 % en menos de 200 años.",
     imagen: "http://naeco.com/modules/psblog/uploads/1613664530.jpg",
     respuesta: "Reducir la huella de carbono",
@@ -88,7 +88,7 @@ let baseDePreguntas = [
   {
     pregunta: "¿Como afecta el óxido nitroso (N₂O) al medio ambiente?",
     ayuda: "El óxido nitroso es un subproducto de los procesos naturales de los suelos y los océanos. Se produce mediante la nitrificación y desnitrificación bacteriana y, por tanto, forma parte del ciclo natural del nitrógeno.",
-    imagen: "http://www.fqsaja.com/wp-content/uploads/2022/02/ImagenBLOG5.2-1.png",
+    imagen: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsincarbono.io%2Fgases-efecto-invernadero%2F&psig=AOvVaw1qLtoYq-YuSEjieqjxPwGy&ust=1727398228378000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjNgoWy34gDFQAAAAAdAAAAABAE",
     respuesta: "Es el principal constituyente de la lluvia ácida",
     distractores: ["No afecta al medio ambiente ya que se presenta en bajas concentraciones", "Los óxidos de nitrógeno son degradados rápidamente en la atmósfera", " El óxido nitroso no se considera uno de los gases de efecto invernadero "],
   },
@@ -118,6 +118,34 @@ let baseDePreguntas = [
     ayuda: "La neutralidad de carbono se alcanza cuando se emite la misma cantidad de CO2 a la atmósfera de la que se retira por distintas vías, lo que deja un balance cero",
     imagen: "https://eos.com/wp-content/uploads/2023/02/reforestation-against-ghg-emission.jpg.webp",
     respuesta: "Cuando se emite la misma cantidad de CO2 a la atmósfera de la que se retira por distintas vías",
-    distractores: ["Cando el CO2 generado al aire no contamina", "Cuando se emite a la atmósfera la misma cantdad de oxígeno que CO2", "Cuando no se generan emisiones de CO2 a la atmósfera "],
+    distractores: ["Cuando el CO2 generado al aire no contamina", "Cuando se emite a la atmósfera la misma cantdad de oxígeno que CO2", "Cuando no se generan emisiones de CO2 a la atmósfera "],
+  }
+  {
+    pregunta: "¿El derretimiento de glaciares es una consecuencia de la huella de carbono, esto causa a su vez lo siguiente?",
+    ayuda: "La neutralidad de carbono se alcanza cuando se emite la misma cantidad de CO2 a la atmósfera de la que se retira por distintas vías, lo que deja un balance cero",
+    imagen: "https://content.nationalgeographic.com.es/medio/2023/11/22/deshielo-de-un-glaciar_dd5f54dc_231122105425_1280x744.jpg",
+    respuesta: "Todas las anteriores",
+    distractores: ["El aumento del nivel del mar", "Incrementa la erosión costera", "Ocasionan tormentas costera"],
+  }
+  {
+    pregunta: "¿Que pueden hacer las empresas para reducir la huella de carbono de manera efectiva?",
+    ayuda: "Las principales líneas de actuación son: la implantación de energías renovables, políticas de movilidad de los trabajadores y transporte de mercancías, instaurar tecnologías más eficientes, reducir el consumo de recursos y minimizar los residuos",
+    imagen: "https://eos.com/wp-content/uploads/2023/02/reforestation-against-ghg-emission.jpg.webp",
+    respuesta: "La implantación de energías renovables y reducir el consumo de recursos",
+    distractores: ["Aumentar el consumo de energas no renovables", "Aumentar la producción y el consumo de combustibles", "Reducir elnúmero de trabajadores en la industria "],
+  }
+  {
+    pregunta: "¿Que paises crees que tienen la mayor huella de carbono per cápita y por qué?",
+    ayuda: "China, con más de 14 mil millones de toneladas de CO2 emitido. Estados Unidos, con 6 mil millones de toneladas de CO2. India, con 3.5 mil millones de toneladas de CO2. Los 27 países de la UE con 3.4 mil millones de toneladas de CO2.",
+    imagen: "https://elordenmundial.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/06/Mapa-emisiones-CO2-habitante.png.webp",
+    respuesta: "China, Esados Unidos y paises de la Union Europea",
+    distractores: ["La India, Nepal, Banglades", "El Reino Unido, Francia y Alemania", "Brasil, Venezuela y Colombia "],
+  }
+  {
+    pregunta: "Impactos de la huella de carbono",
+    ayuda: "Cada vez que viajamos en coche, cargamos el teléfono móvil o ponemos una lavadora, entre otras miles de rutinas, dejamos atrás una estela de gases que se acumulan en la atmósfera y sobrecalientan el planeta.",
+    imagen: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.portalambiental.com.mx%2Fsabias-que%2F20211007%2Fpeligra-la-migracion-de-las-aves-por-perdida-y-alteracion-de-habitats&psig=AOvVaw25RzACGXclOmQRbSff3dX4&ust=1727398837149000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjczqa034gDFQAAAAAdAAAAABAE",
+    respuesta: "Todas las anteriores",
+    distractores: ["Los cambios en los ecosistemas y Fenómenos meteorológicos extremos", "Migraciones masivas y extinción de especies", "Acidificación y subida del nivel del mar "],
   }
 ];
