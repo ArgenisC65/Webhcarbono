@@ -69,7 +69,7 @@ let baseDePreguntas = [
     ayuda: "La huella de carbono representa el volumen total de gases de efecto invernadero (GEI) que producen las actividades económicas y cotidianas del ser humano.",
     imagen: "https://www.shutterstock.com/shutterstock/photos/2392639505/display_1500/stock-vector-carbon-footprint-symbol-paper-art-style-ecology-and-environment-sustainable-development-concept-2392639505.jpg",
     respuesta: "Identificar emisiones en equivalentes (combustible, energia eléctrica, desechos sólidos)",
-    distractores: ["Identificar las emisiones GEI que son generadas por Organizaciones e Industrias de su Sector", "Medir el Impacto de la Deforestación en tu ciudad", "Identificar las medidas de el Oxigeno consumido en realación con el CO₂ generado"],
+    distractores: ["Identificar las emisiones GEI que son generadas por Organizaciones e Industrias de su Sector", "Medir el Impacto de la Deforestación en tu ciudad", "Identificar las medidas del Oxigeno consumido en relación con el CO₂ generado"],
   },
   {
     pregunta: "¿Como reducir tu huella de carbono?",
@@ -97,7 +97,7 @@ let baseDePreguntas = [
     ayuda: "Los estándares más utilizados en el mundo vienen establecidos por el Greenhouse Gas Protocol (GHG). Según el GHG Protocol, y de forma simplificada, la huella de carbono se calcula multiplicando un dato de actividad por un factor de emisión. ",
     imagen: "https://cdn.laopinon.cl/sites/laopinon.cl/files/imagecache/380x285/imagen_noticia/Calculadora%20huella%20de%20carbono%20CGE_%201.jpg",
     respuesta: "CO₂ equivalente = (Masa de Gas x Potencial de Calentamiento Global)",
-    distractores: ["CO₂ equivalente = (Volúmen de Gas x Potencial de Calentamiento Global)", "CO₂ equivalente = Volúmen de Gas", " CO₂ equivalente = (Volúmen de Gas / Volúmen de Oxigeno"],
+    distractores: ["CO₂ equivalente = (Volúmen de Gas x Potencial de Calentamiento Global)", "CO₂ equivalente = Volúmen de Gas", " CO₂ equivalente = (Volúmen de Gas / Volúmen de Oxigeno)"],
   },
   {
     pregunta: "¿Una acción para compensar la huella de carbono puede ser?",
@@ -132,13 +132,13 @@ let baseDePreguntas = [
     ayuda: "Las principales líneas de actuación son: la implantación de energías renovables, políticas de movilidad de los trabajadores y transporte de mercancías, instaurar tecnologías más eficientes, reducir el consumo de recursos y minimizar los residuos",
     imagen: "https://eos.com/wp-content/uploads/2023/02/reforestation-against-ghg-emission.jpg.webp",
     respuesta: "La implantación de energías renovables y reducir el consumo de recursos",
-    distractores: ["Aumentar el consumo de energas no renovables", "Aumentar la producción y el consumo de combustibles", "Reducir elnúmero de trabajadores en la industria "],
+    distractores: ["Aumentar el consumo de energias no renovables", "Aumentar la producción y el consumo de combustibles", "Reducir el número de trabajadores en la industria "],
   },
   {
-    pregunta: "¿Que paises crees que tienen la mayor huella de carbono per cápita y por qué?",
+    pregunta: "¿Que países crees que tienen la mayor huella de carbono per cápita y por qué?",
     ayuda: "China, con más de 14 mil millones de toneladas de CO2 emitido. Estados Unidos, con 6 mil millones de toneladas de CO2. India, con 3.5 mil millones de toneladas de CO2. Los 27 países de la UE con 3.4 mil millones de toneladas de CO2.",
     imagen: "https://elordenmundial.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/06/Mapa-emisiones-CO2-habitante.png.webp",
-    respuesta: "China, Esados Unidos y paises de la Union Europea",
+    respuesta: "China, Estados Unidos y países de la Union Europea",
     distractores: ["La India, Nepal, Banglades", "El Reino Unido, Francia y Alemania", "Brasil, Venezuela y Colombia "],
   },
   {
