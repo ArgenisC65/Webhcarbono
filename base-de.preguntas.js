@@ -47,7 +47,7 @@ let baseDePreguntas = [
     ayuda: "Las fuentes más grandes de metano son la agricultura, los combustibles fósiles y la descomposición de residuos en vertederos. ",
     imagen: "https://content.nationalgeographic.com.es/medio/2021/11/12/la-actividad-ganadera-puede-suponer-hasta-un-145de-las-emisiones-globales-de-gases-de-efecto-invernadero_d50c711d_1226x856.jpg",
     respuesta: "Cultivos de arroz, sobrepastoreo, disposicion inadecuada de residuos sólidos",
-    distractores: ["Quema de combustibles fósiles en autos e industria", "Sobreproducción de ganado en nuestros llanos", "Tala y quema de árboles"],
+    distractores: ["Quema de combustibles fósiles en autos e industria", "Sobreexplotación de la ganaderia y la agricultura", "Tala y quema de árboles"],
   },
   {
     pregunta: "¿Cual es la acción principal para reducir los gases de efecto invernadero?",
@@ -62,13 +62,13 @@ let baseDePreguntas = [
     imagen: "https://www.shutterstock.com/shutterstock/photos/2363791289/display_1500/stock-vector-icon-collection-with-zero-emission-symbol-concept-greenhouse-gas-carbon-credit-design-set-protect-2363791289.jpg",
     respuesta: "La personal se base en hábitos de consumo personal y la corporatuva mide el desempeño de la empresa frente a los compromisos",
     respuesta: "Indicador ambiental que refleja la cantidad de gases de efecto invernadero expresado como: CO₂ equivalente",
-    distractores: ["Energia generada por las plantas generadoras de electrcidad", "Concentración de gase generados en las industrias", "Kilómetros cuadrados o hectareas de bosques"],
+    distractores: ["Energia generada por las plantas generadoras de electricidad", "Concentración de gases generados en las industrias", "Kilómetros cuadrados o hectáreas de bosques"],
   },
   {
     pregunta: "¿Como identificas tu huella de carbono?",
     ayuda: "La huella de carbono representa el volumen total de gases de efecto invernadero (GEI) que producen las actividades económicas y cotidianas del ser humano.",
     imagen: "https://www.shutterstock.com/shutterstock/photos/2392639505/display_1500/stock-vector-carbon-footprint-symbol-paper-art-style-ecology-and-environment-sustainable-development-concept-2392639505.jpg",
-    respuesta: "Identificar emisiones en equivalentes (consumo combustible, consumo energia eléctrica, desechos sólidos, consumo de carne",
+    respuesta: "Identificar emisiones en equivalentes (combustible, energia eléctrica, desechos sólidos)",
     distractores: ["Identificar las emisiones GEI que son generadas por Organizaciones e Industrias de su Sector", "Medir el Impacto de la Deforestación en tu ciudad", "Identificar las medidas de el Oxigeno consumido en realación con el CO₂ generado"],
   },
   {
@@ -104,14 +104,14 @@ let baseDePreguntas = [
     ayuda: "Compensar la huella de carbono significa capturar la misma cantidad de CO₂ que emitimos. Una de las acciones más conocidas para compensar las emisiones de carbono o huella de carbono, es la plantación y conservación de bosques. ",
     imagen: "https://eos.com/wp-content/uploads/2023/02/reforestation-against-ghg-emission.jpg.webp",
     respuesta: "Plantación y conservación de bosques",
-    distractores: ["Compraren centros comerciales", "Siempre hacer uso de moto o automóvil para translarse", " No clasificar los residuos sólios en el hogar"],
+    distractores: ["Comprar en centros comerciales", "Siempre hacer uso de moto o automóvil para translarse", " No clasificar los residuos sólios en el hogar"],
   },
   {
     pregunta: "¿Por qué plantar árboles compensa la huella de carbono?",
     ayuda: "Compensar la huella de carbono significa capturar la misma cantidad de CO2 que emitimos. Una de las acciones más conocidas para compensar las emisiones de carbono o huella de carbono, es la plantación y conservación de bosques. ",
     imagen: "https://eos.com/wp-content/uploads/2023/02/reforestation-against-ghg-emission.jpg.webp",
     respuesta: "Las plantas hacen fotosíntesis, y transforman el dióxido de carbono en oxígeno",
-    distractores: ["Los árboles capturan el carbono en sus hojas y lo disuelven", "Es falso, los arboles no absorben el carbono", "Los árboles solo limpian el aire de todos los gases "],
+    distractores: ["Los árboles capturan el carbono en sus hojas y lo disuelven", "Es falso, los arboles no absorben el carbono", "Los árboles limpian el aire de todos los gases "],
   },
   {
     pregunta: "¿Que significa ser carbono neutral?",
