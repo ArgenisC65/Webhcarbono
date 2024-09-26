@@ -83,13 +83,41 @@ let baseDePreguntas = [
     ayuda: "La  mide el potencial de calentamiento global en toneladas de CO2 equivalentes asociadas a un producto, una corporación o empresa, etc.",
     imagen: "https://www.shutterstock.com/shutterstock/photos/2393389339/display_1500/stock-photo-carbon-footprint-a-human-footprint-in-the-middle-of-a-lush-crystal-globe-concepts-of-sustainable-2393389339.jpg",
     respuesta: "La personal se base en hábitos de consumo personal y la corporatuva mide el desempeño de la empresa frente a los compromisos",
-    distractores: ["No hay diferencias porque ayudan a cumplir con el mismo compromiso", "la huella personal no es útil para reducír la contaminación", "en la huella personal no se mide impacto ambiental y en la corporatva si"],
+    distractores: ["No hay diferencias porque ayudan a cumplir con el mismo compromiso", "La huella personal no es útil para reducír la contaminación", "En la huella personal no se mide impacto ambiental y en la corporatva si"],
   },
   {
-    pregunta: "¿Como aecta el óxido nitroso (N₂O) al medio ambiente?",
+    pregunta: "¿Como afecta el óxido nitroso (N₂O) al medio ambiente?",
     ayuda: "El óxido nitroso es un subproducto de los procesos naturales de los suelos y los océanos. Se produce mediante la nitrificación y desnitrificación bacteriana y, por tanto, forma parte del ciclo natural del nitrógeno.",
-    imagen: "https://www.shutterstock.com/shutterstock/photos/2393389339/display_1500/stock-photo-carbon-footprint-a-human-footprint-in-the-middle-of-a-lush-crystal-globe-concepts-of-sustainable-2393389339.jpg",
+    imagen: "http://www.fqsaja.com/wp-content/uploads/2022/02/ImagenBLOG5.2-1.png",
     respuesta: "Es el principal constituyente de la lluvia ácida",
     distractores: ["No afecta al medio ambiente ya que se presenta en bajas concentraciones", "Los óxidos de nitrógeno son degradados rápidamente en la atmósfera", " El óxido nitroso no se considera uno de los gases de efecto invernadero "],
   },
+  {
+    pregunta: "¿Como se calcula la huella de carbono de un gas?",
+    ayuda: "Los estándares más utilizados en el mundo vienen establecidos por el Greenhouse Gas Protocol (GHG). Según el GHG Protocol, y de forma simplificada, la huella de carbono se calcula multiplicando un dato de actividad por un factor de emisión. ",
+    imagen: "https://cdn.laopinon.cl/sites/laopinon.cl/files/imagecache/380x285/imagen_noticia/Calculadora%20huella%20de%20carbono%20CGE_%201.jpg",
+    respuesta: "CO₂ equivalente = (Masa de Gas x Potencial de Calentamiento Global)",
+    distractores: ["CO₂ equivalente = (Volúmen de Gas x Potencial de Calentamiento Global)", "CO₂ equivalente = Volúmen de Gas", " CO₂ equivalente = (Volúmen de Gas / Volúmen de Oxigeno"],
+  },
+  {
+    pregunta: "¿Una acción para compensar la huella de carbono puede ser?",
+    ayuda: "Compensar la huella de carbono significa capturar la misma cantidad de CO2 que emitimos. Una de las acciones más conocidas para compensar las emisiones de carbono o huella de carbono, es la plantación y conservación de bosques. ",
+    imagen: "https://eos.com/wp-content/uploads/2023/02/reforestation-against-ghg-emission.jpg.webp",
+    respuesta: "Plantación y conservación de bosques",
+    distractores: ["Compraren centros comerciales", "Siempre hacer uso de moto o automóvil para translarse", " No clasificar los residuos sólios en el hogar"],
+  },
+  {
+    pregunta: "¿Por qué plantar árboles compensa la huella de carbono?",
+    ayuda: "Compensar la huella de carbono significa capturar la misma cantidad de CO2 que emitimos. Una de las acciones más conocidas para compensar las emisiones de carbono o huella de carbono, es la plantación y conservación de bosques. ",
+    imagen: "https://eos.com/wp-content/uploads/2023/02/reforestation-against-ghg-emission.jpg.webp",
+    respuesta: "Las plantas hacen fotosíntesis, y transforman el dióxido de carbono en oxígeno",
+    distractores: ["Los árboles capturan el carbono en sus hojas y lo disuelven", "Es falso, los arboles no absorben el carbono", "Los árboles solo limpian el aire de todos los gases "],
+  }
+  {
+    pregunta: "¿Que significa ser carbono neutral?",
+    ayuda: "La neutralidad de carbono se alcanza cuando se emite la misma cantidad de CO2 a la atmósfera de la que se retira por distintas vías, lo que deja un balance cero",
+    imagen: "https://eos.com/wp-content/uploads/2023/02/reforestation-against-ghg-emission.jpg.webp",
+    respuesta: "Cuando se emite la misma cantidad de CO2 a la atmósfera de la que se retira por distintas vías",
+    distractores: ["Cando el CO2 generado al aire no contamina", "Cuando se emite a la atmósfera la misma cantdad de oxígeno que CO2", "Cuando no se generan emisiones de CO2 a la atmósfera "],
+  }
 ];
