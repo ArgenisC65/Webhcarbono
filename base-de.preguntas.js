@@ -112,7 +112,7 @@ let baseDePreguntas = [
     imagen: "https://eos.com/wp-content/uploads/2023/02/reforestation-against-ghg-emission.jpg.webp",
     respuesta: "Las plantas hacen fotosíntesis, y transforman el dióxido de carbono en oxígeno",
     distractores: ["Los árboles capturan el carbono en sus hojas y lo disuelven", "Es falso, los arboles no absorben el carbono", "Los árboles solo limpian el aire de todos los gases "],
-  }
+  },
   {
     pregunta: "¿Que significa ser carbono neutral?",
     ayuda: "La neutralidad de carbono se alcanza cuando se emite la misma cantidad de CO2 a la atmósfera de la que se retira por distintas vías, lo que deja un balance cero",
