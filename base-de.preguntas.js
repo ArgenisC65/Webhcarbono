@@ -88,7 +88,7 @@ let baseDePreguntas = [
   {
     pregunta: "¿Como afecta el óxido nitroso (N₂O) al medio ambiente?",
     ayuda: "El óxido nitroso es un subproducto de los procesos naturales de los suelos y los océanos. Se produce mediante la nitrificación y desnitrificación bacteriana y, por tanto, forma parte del ciclo natural del nitrógeno.",
-    imagen: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsincarbono.io%2Fgases-efecto-invernadero%2F&psig=AOvVaw1qLtoYq-YuSEjieqjxPwGy&ust=1727398228378000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjNgoWy34gDFQAAAAAdAAAAABAE",
+    imagen: "https://grupovierci.brightspotcdn.com/dims4/default/2f9e90f/2147483647/strip/true/crop/1251x704+0+63/resize/1000x563!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fadjuntos%2F161%2Fimagenes%2F009%2F058%2F0009058045.png",
     respuesta: "Es el principal constituyente de la lluvia ácida",
     distractores: ["No afecta al medio ambiente ya que se presenta en bajas concentraciones", "Los óxidos de nitrógeno son degradados rápidamente en la atmósfera", " El óxido nitroso no se considera uno de los gases de efecto invernadero "],
   },
@@ -122,7 +122,7 @@ let baseDePreguntas = [
   },
   {
     pregunta: "¿El derretimiento de glaciares es una consecuencia de la huella de carbono, esto causa a su vez lo siguiente?",
-    ayuda: "La neutralidad de carbono se alcanza cuando se emite la misma cantidad de CO2 a la atmósfera de la que se retira por distintas vías, lo que deja un balance cero",
+    ayuda: "El derretimiento de los glaciares provoca el aumento del nivel del mar, lo que a su vez incrementa la erosión costera y eleva las marejadas a medida que el calentamiento del aire y del mar ocasionan tormentas costeras",
     imagen: "https://content.nationalgeographic.com.es/medio/2023/11/22/deshielo-de-un-glaciar_dd5f54dc_231122105425_1280x744.jpg",
     respuesta: "Todas las anteriores",
     distractores: ["El aumento del nivel del mar", "Incrementa la erosión costera", "Ocasionan tormentas costera"],
@@ -144,7 +144,7 @@ let baseDePreguntas = [
   {
     pregunta: "Impactos de la huella de carbono",
     ayuda: "Cada vez que viajamos en coche, cargamos el teléfono móvil o ponemos una lavadora, entre otras miles de rutinas, dejamos atrás una estela de gases que se acumulan en la atmósfera y sobrecalientan el planeta.",
-    imagen: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.portalambiental.com.mx%2Fsabias-que%2F20211007%2Fpeligra-la-migracion-de-las-aves-por-perdida-y-alteracion-de-habitats&psig=AOvVaw25RzACGXclOmQRbSff3dX4&ust=1727398837149000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjczqa034gDFQAAAAAdAAAAABAE",
+    imagen: "https://www.portalambiental.com.mx/sites/default/files/styles/full_content/public/media/image/2021/10/8492aver.unam_.jpeg?itok=qdG9nQKv",
     respuesta: "Todas las anteriores",
     distractores: ["Los cambios en los ecosistemas y Fenómenos meteorológicos extremos", "Migraciones masivas y extinción de especies", "Acidificación y subida del nivel del mar "],
   }
