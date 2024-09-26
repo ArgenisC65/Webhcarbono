@@ -58,10 +58,10 @@ let baseDePreguntas = [
   },
   {
     pregunta: "¿Que es la huella de carbono?",
-    ayuda: "Indicador ambiental que refleja la cantidad de gases de efecto invernadero expresado como: co2 equivalente",
+    ayuda: "Indicador ambiental que refleja la cantidad de gases de efecto invernadero expresado como: CO₂ equivalente",
     imagen: "https://www.shutterstock.com/shutterstock/photos/2363791289/display_1500/stock-vector-icon-collection-with-zero-emission-symbol-concept-greenhouse-gas-carbon-credit-design-set-protect-2363791289.jpg",
     respuesta: "La personal se base en hábitos de consumo personal y la corporatuva mide el desempeño de la empresa frente a los compromisos",
-    respuesta: "Indicador ambiental que refleja la cantidad de gases de efecto invernadero expresado como: co2 equivalente",
+    respuesta: "Indicador ambiental que refleja la cantidad de gases de efecto invernadero expresado como: CO₂ equivalente",
     distractores: ["Energia generada por las plantas generadoras de electrcidad", "Concentración de gase generados en las industrias", "Kilómetros cuadrados o hectareas de bosques"],
   },
   {
@@ -80,7 +80,7 @@ let baseDePreguntas = [
   },
   {
     pregunta: "¿Cuales diferencias encuentras entre tu huella de carbono personal y la corporativa?",
-    ayuda: "La  mide el potencial de calentamiento global en toneladas de CO2 equivalentes asociadas a un producto, una corporación o empresa, etc.",
+    ayuda: "La  mide el potencial de calentamiento global en toneladas de CO₂ equivalentes asociadas a un producto, una corporación o empresa, etc.",
     imagen: "https://www.shutterstock.com/shutterstock/photos/2393389339/display_1500/stock-photo-carbon-footprint-a-human-footprint-in-the-middle-of-a-lush-crystal-globe-concepts-of-sustainable-2393389339.jpg",
     respuesta: "La personal se base en hábitos de consumo personal y la corporatuva mide el desempeño de la empresa frente a los compromisos",
     distractores: ["No hay diferencias porque ayudan a cumplir con el mismo compromiso", "La huella personal no es útil para reducír la contaminación", "En la huella personal no se mide impacto ambiental y en la corporatva si"],
@@ -101,7 +101,7 @@ let baseDePreguntas = [
   },
   {
     pregunta: "¿Una acción para compensar la huella de carbono puede ser?",
-    ayuda: "Compensar la huella de carbono significa capturar la misma cantidad de CO2 que emitimos. Una de las acciones más conocidas para compensar las emisiones de carbono o huella de carbono, es la plantación y conservación de bosques. ",
+    ayuda: "Compensar la huella de carbono significa capturar la misma cantidad de CO₂ que emitimos. Una de las acciones más conocidas para compensar las emisiones de carbono o huella de carbono, es la plantación y conservación de bosques. ",
     imagen: "https://eos.com/wp-content/uploads/2023/02/reforestation-against-ghg-emission.jpg.webp",
     respuesta: "Plantación y conservación de bosques",
     distractores: ["Compraren centros comerciales", "Siempre hacer uso de moto o automóvil para translarse", " No clasificar los residuos sólios en el hogar"],
@@ -115,10 +115,10 @@ let baseDePreguntas = [
   },
   {
     pregunta: "¿Que significa ser carbono neutral?",
-    ayuda: "La neutralidad de carbono se alcanza cuando se emite la misma cantidad de CO2 a la atmósfera de la que se retira por distintas vías, lo que deja un balance cero",
+    ayuda: "La neutralidad de carbono se alcanza cuando se emite la misma cantidad de CO₂ a la atmósfera de la que se retira por distintas vías, lo que deja un balance cero",
     imagen: "https://eos.com/wp-content/uploads/2023/02/reforestation-against-ghg-emission.jpg.webp",
     respuesta: "Cuando se emite la misma cantidad de CO2 a la atmósfera de la que se retira por distintas vías",
-    distractores: ["Cuando el CO2 generado al aire no contamina", "Cuando se emite a la atmósfera la misma cantdad de oxígeno que CO2", "Cuando no se generan emisiones de CO2 a la atmósfera "],
+    distractores: ["Cuando el CO₂ generado al aire no contamina", "Cuando se emite a la atmósfera la misma cantdad de oxígeno que CO₂", "Cuando no se generan emisiones de CO₂ a la atmósfera "],
   },
   {
     pregunta: "¿El derretimiento de glaciares es una consecuencia de la huella de carbono, esto causa a su vez lo siguiente?",
