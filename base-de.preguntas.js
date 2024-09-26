@@ -119,28 +119,28 @@ let baseDePreguntas = [
     imagen: "https://eos.com/wp-content/uploads/2023/02/reforestation-against-ghg-emission.jpg.webp",
     respuesta: "Cuando se emite la misma cantidad de CO2 a la atmósfera de la que se retira por distintas vías",
     distractores: ["Cuando el CO2 generado al aire no contamina", "Cuando se emite a la atmósfera la misma cantdad de oxígeno que CO2", "Cuando no se generan emisiones de CO2 a la atmósfera "],
-  }
+  },
   {
     pregunta: "¿El derretimiento de glaciares es una consecuencia de la huella de carbono, esto causa a su vez lo siguiente?",
     ayuda: "La neutralidad de carbono se alcanza cuando se emite la misma cantidad de CO2 a la atmósfera de la que se retira por distintas vías, lo que deja un balance cero",
     imagen: "https://content.nationalgeographic.com.es/medio/2023/11/22/deshielo-de-un-glaciar_dd5f54dc_231122105425_1280x744.jpg",
     respuesta: "Todas las anteriores",
     distractores: ["El aumento del nivel del mar", "Incrementa la erosión costera", "Ocasionan tormentas costera"],
-  }
+  },
   {
     pregunta: "¿Que pueden hacer las empresas para reducir la huella de carbono de manera efectiva?",
     ayuda: "Las principales líneas de actuación son: la implantación de energías renovables, políticas de movilidad de los trabajadores y transporte de mercancías, instaurar tecnologías más eficientes, reducir el consumo de recursos y minimizar los residuos",
     imagen: "https://eos.com/wp-content/uploads/2023/02/reforestation-against-ghg-emission.jpg.webp",
     respuesta: "La implantación de energías renovables y reducir el consumo de recursos",
     distractores: ["Aumentar el consumo de energas no renovables", "Aumentar la producción y el consumo de combustibles", "Reducir elnúmero de trabajadores en la industria "],
-  }
+  },
   {
     pregunta: "¿Que paises crees que tienen la mayor huella de carbono per cápita y por qué?",
     ayuda: "China, con más de 14 mil millones de toneladas de CO2 emitido. Estados Unidos, con 6 mil millones de toneladas de CO2. India, con 3.5 mil millones de toneladas de CO2. Los 27 países de la UE con 3.4 mil millones de toneladas de CO2.",
     imagen: "https://elordenmundial.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/06/Mapa-emisiones-CO2-habitante.png.webp",
     respuesta: "China, Esados Unidos y paises de la Union Europea",
     distractores: ["La India, Nepal, Banglades", "El Reino Unido, Francia y Alemania", "Brasil, Venezuela y Colombia "],
-  }
+  },
   {
     pregunta: "Impactos de la huella de carbono",
     ayuda: "Cada vez que viajamos en coche, cargamos el teléfono móvil o ponemos una lavadora, entre otras miles de rutinas, dejamos atrás una estela de gases que se acumulan en la atmósfera y sobrecalientan el planeta.",
